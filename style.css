@@ -25,3 +25,9 @@ html{
   border-radius: 3rem;
   box-shadow: 0 2rem 6rem rgba(0,0,0,0.3);
 }
+
+.green-bg{
+    width: 40%;
+    height: 100%;
+    background: linear-gradient(to right, #3ab19b, #4cbf91);
+}
