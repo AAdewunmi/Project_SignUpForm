@@ -61,3 +61,12 @@ html{
   width: 30rem;
   z-index: 100;
 }
+
+.banner h1{
+  font-size: 4rem;
+  margin-bottom: 3rem;
+}
+
+.banner p{
+  font-size: 2rem;
+}
