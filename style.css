@@ -51,3 +51,13 @@ html{
     color:#fff;
     cursor: pointer;
 }
+
+.banner{
+  position: absolute;
+  top: 25%;
+  left: 5rem;
+  text-align: center;
+  color: #fff;
+  width: 30rem;
+  z-index: 100;
+}
