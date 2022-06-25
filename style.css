@@ -105,3 +105,9 @@ html{
   font-size: 2rem;
   color: blue;
 }
+
+.signup-form p{
+  font-size: 1.8rem;
+  color: #555;
+  margin-bottom: 2rem;
+}
