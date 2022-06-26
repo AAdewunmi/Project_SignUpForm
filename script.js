@@ -1,6 +1,7 @@
-const container = document.querySelector('.container');
-const signUpBtn = document.querySelector('.green-bg button');
+/*jshint esversion: 6 */
+const container = document.querySelector(".container");
+const signUpBtn = document.querySelector(".green-bg button");
 
-signUpBtn.addEventListener('click', () => {
-  container.classList.toggle('active');
+signUpBtn.addEventListener("click", () => {
+  container.classList.toggle("change");
 });
