@@ -36,6 +36,12 @@ html{
     top: 0;
     left: 0;
     z-index: 50;
+    transition: width 1.5s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+.container.change.green-bg{
+    width: 40%;
+    background: linear-gradient(to right, #3ab19b, #4cbf91);
 }
 
 .green-bg button{
