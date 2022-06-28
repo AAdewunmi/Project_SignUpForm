@@ -42,7 +42,7 @@ Enjoy :)
 ### Adapted From:
 
 Project Name: 
-Sign Up For Project
+Sign Up Form Project
 
 Authors:
 
